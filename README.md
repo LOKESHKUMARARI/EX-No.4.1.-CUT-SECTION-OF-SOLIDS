@@ -5,7 +5,7 @@
 To create the solid model from given drawing and section the solid model
 
 ## REQUIREMENTS: 
-1. Autodesk fusion 360
+1. Autodesk fusion 360.
 2. Windows 10
 3.16 GB of RAM (integrated graphics recommend 1 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
@@ -40,7 +40,9 @@ To create the solid model from given drawing and section the solid model
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
-## OUTPUT:
+## OUTPUT!:
+[EX 4 1 LOKESH (1)_page-0001](https://user-images.githubusercontent.com/119406110/216562814-affbca63-9491-4434-9d2c-bce99d5765b4.jpg)
+
 
 ## RESULT:
 
